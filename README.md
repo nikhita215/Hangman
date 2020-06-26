@@ -4,8 +4,6 @@ Learn more at <a href="https://hyperskill.org/projects?track_id=2">https://hyper
 
 # Hangman
 
-**Title:** Hangman
-
 **Summary:** Games can help you kill time when you’re bored. But before smartphones, people
   played games the classic way – with paper and pencil. Let’s recreate one such game
   and improve your programming skills in the process. In this project, you will code
@@ -14,7 +12,5 @@ Learn more at <a href="https://hyperskill.org/projects?track_id=2">https://hyper
   the guessing!<br/><br/>
 
 # To-Do List
-
-**Title:** To-Do list
 
 **Summary:** To-Do list can improve your work and personal life. You can use it to reduce the stress in your life and get more done in less time. It also helps you become more reliable for other people and save time for the best things in life. And also you will learn the basics of SQLAlchemy to manage SQLite database on python!
