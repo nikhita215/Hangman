@@ -1,6 +1,8 @@
-# Hangman
+This repository contains the Python code for the following projects from Jetbrains Academy
 
-This repository contains the Python code to play the classic Hangman game
+Learn more at <a href="https://hyperskill.org/projects?track_id=2">https://hyperskill.org/projects</a>
+
+# Hangman
 
 **Title:** Hangman
 
@@ -9,6 +11,10 @@ This repository contains the Python code to play the classic Hangman game
   and improve your programming skills in the process. In this project, you will code
   Hangman, a game where the player has to guess a word, letter by letter, in a limited
   number of attempts. Make a program that plays Hangman with you – and good luck with
-  the guessing!<br/><br/>Learn more at <a href="https://hyperskill.org">https://hyperskill.org/projects/69</a>
-  
-**Programming_language:** Python
+  the guessing!<br/><br/>
+
+# To-Do List
+
+**Title:** To-Do list
+
+**Summary:** To-Do list can improve your work and personal life. You can use it to reduce the stress in your life and get more done in less time. It also helps you become more reliable for other people and save time for the best things in life. And also you will learn the basics of SQLAlchemy to manage SQLite database on python!
